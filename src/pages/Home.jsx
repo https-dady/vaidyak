@@ -45,7 +45,7 @@ const HomePage = () => {
               </div>
 
               <img
-                src="https://i.pravatar.cc/40"
+                src="./images/set.png"
                 onClick={() => navigate("/profile")}
                 className="rounded-full w-10 h-10 border-2 border-teal-400 cursor-pointer hover:opacity-80"
                 alt="profile"

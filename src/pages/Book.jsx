@@ -50,7 +50,7 @@ const BookAppoint = () => {
           {/* Doctor Info */}
           <div className="flex gap-4 bg-white p-4 rounded-2xl shadow-sm">
             <img
-              src="https://i.pravatar.cc/100"
+              src="./images/set.png"
               className="w-24 h-24 rounded-xl object-cover"
               alt="doctor"
             />

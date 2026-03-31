@@ -223,7 +223,7 @@ const Appointment = () => {
           {/* USER SECTION */}
           <div className="flex items-center gap-3 mt-3">
             <img
-              src="https://i.pravatar.cc/40"
+              src="./images/set.png"
               onClick={() => navigate("/profile")}
               className="w-10 h-10 rounded-full border-2 border-white cursor-pointer"
               alt="profile"
@@ -301,14 +301,14 @@ const Appointment = () => {
 
             <div className="flex gap-3 items-center rounded-xl p-2 hover:shadow-sm">
               <img
-                src="https://i.pravatar.cc/50?img=30"
+                src="./images/set.png"
                 className="w-12 h-12 rounded-full"
                 alt="doctor"
               />
 
               <div className="flex-1">
                 <h4 className="text-sm font-semibold">
-                  Dr. Kamakshi Desai
+                  Dr. Kamaksh Desai
                 </h4>
                 <p className="text-xs text-gray-500">
                   MBBS, MD (Neurology)

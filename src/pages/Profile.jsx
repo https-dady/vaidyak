@@ -34,7 +34,7 @@ const ProfilePage = () => {
           <div className="absolute left-1/2 transform -translate-x-1/2 top-14">
             <div className="relative">
               <img
-                src="https://i.pravatar.cc/100"
+                src="./images/set.png"
                 className="w-24 h-24 rounded-full border-4 border-[#dde1e8]"
                 alt="profile"
               />
