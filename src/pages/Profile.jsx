@@ -59,8 +59,8 @@ const ProfilePage = () => {
           {/* STATS */}
           <div className="grid grid-cols-4 gap-3 mt-6 text-center">
             {[
-              { label: "Height", value: "5.8 in", icon: "🧍" },
-              { label: "Weight", value: "5.8 in", icon: "⚖️" },
+              { label: "Height", value: "5.8 ft", icon: "🧍" },
+              { label: "Weight", value: "58 Kg in", icon: "⚖️" },
               { label: "Age", value: "25", icon: "🎂" },
               { label: "Blood", value: "B+", icon: "🩸" },
             ].map((item, i) => (
