@@ -33,7 +33,7 @@ const HomePage = () => {
           <div className="flex justify-between items-center">
             <div>
               <p className="text-sm text-gray-400">Good Morning ☀️</p>
-              <h2 className="text-lg font-bold">Tarun!</h2>
+              <h2 className="text-lg font-bold">CareCoders!</h2>
               <p className="text-xs text-teal-500 font-medium">
                 Your health status is good
               </p>
