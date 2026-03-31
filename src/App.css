@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+.dayScroll{
+    scrollbar-width: none;
+}
+.fullScroll{
+    scrollbar-width: none;
+}
