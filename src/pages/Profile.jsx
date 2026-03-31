@@ -46,7 +46,7 @@ const ProfilePage = () => {
         </div>
 
         {/* SCROLL AREA */}
-        <div className="flex-1 overflow-y-auto scrollbar-hide px-4 pt-16 pb-4">
+        <div className="fullScroll flex-1 overflow-y-auto scrollbar-hide px-4 pt-16 pb-4">
 
           {/* NAME */}
           <div className="text-center">
