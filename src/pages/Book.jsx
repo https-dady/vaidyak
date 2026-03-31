@@ -45,7 +45,7 @@ const BookAppoint = () => {
         </div>
 
         {/* SCROLL AREA */}
-        <div className="flex-1 overflow-y-auto scrollbar-hide p-5 space-y-5">
+        <div className="fullScroll flex-1 overflow-y-auto scrollbar-hide p-5 space-y-5">
 
           {/* Doctor Info */}
           <div className="flex gap-4 bg-white p-4 rounded-2xl shadow-sm">

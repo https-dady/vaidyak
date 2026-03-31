@@ -22,7 +22,7 @@
 
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
-
+import "./App.css";
 import Home from "./pages/Home";
 import Book from "./pages/Book";
 import Appointment from "./pages/Appointment";
