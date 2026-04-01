@@ -136,7 +136,7 @@ const BookAppoint = () => {
                   "Video Call with Doctor",
                   "Chat with Doctor",
                 ];
-                const price = ["$60", "$80", "$40"];
+                const price = ["150 INR", "100 INR", "80 INR"];
 
                 return (
                   <div
